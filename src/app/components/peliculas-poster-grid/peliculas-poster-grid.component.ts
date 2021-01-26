@@ -1,6 +1,5 @@
 import { Component, OnInit, Input } from '@angular/core';
 import { Movie } from '../../interfaces/cartelera-response';
-import { StarRatingComponent } from 'ng-starrating';
 
 @Component({
   selector: 'app-peliculas-poster-grid',
